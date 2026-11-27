@@ -3,7 +3,7 @@
 MSc Computer Science student at Ontario Tech University, supervised by Dr. Cristiano Politowski and Dr. Ali Neshati.
 I build reinforcement-learning agents that playtest games, and methods that keep a language model's persona from drifting over a long conversation.
 
-[Portfolio](https://kevinccme.github.io/web_portfolio/) · [Project showcase with AL Shifan](https://kevinccme.github.io/Project_Showcase/) · [LinkedIn](https://www.linkedin.com/in/kevincchua/) · [Résumé](https://kevinccme.github.io/web_portfolio/resume.pdf)
+[Portfolio](https://kevinccme.github.io/about_me/) · [Project showcase with AL Shifan](https://kevinccme.github.io/Project_Showcase/) · [LinkedIn](https://www.linkedin.com/in/kevincchua/) · [Résumé](https://kevinccme.github.io/about_me/resume.pdf)
 
 **Papers (2026)**
 
