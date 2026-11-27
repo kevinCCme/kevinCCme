@@ -16,7 +16,6 @@ I build reinforcement-learning agents that playtest games, and methods that keep
 | IEEE CoG | [RIDGE: State-Conditioned Reward Blending for Behavioral Coverage in Deep RL Game Agents](https://arxiv.org/abs/2611.05601) |
 | CSER poster | [Trait Activation Steering: Keeping Small-Model NPCs in Character](https://doi.org/10.5281/zenodo.21184301) (first author) |
 | CSER poster | [Evolved Neural Agents as Tireless Playtesters](https://github.com/Code-SorceryLab/PEAK-DRL-Tool) |
-| Under review | One more paper |
 
 ### Projects
 
